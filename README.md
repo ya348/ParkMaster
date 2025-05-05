@@ -56,7 +56,7 @@ Feel free to fork this project, open issues, and contribute with pull requests. 
 ---
 
 ## 📞 Contact:
-For any questions, feel free to reach out at [usimin160@gmail.com](mailto:usimin160@gmail.com).
+For any questions, feel free to reach out at [usimin160@gmail.com](mailto:usimin160@gmail.com)
 
 ---
 
