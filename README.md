@@ -32,13 +32,13 @@ Start parking smarter today and say goodbye to parking issues! 🌟
 
 2. Navigate to the project directory.
     ```bash
-    cd ParkMaster
+    cd .\ParkMaster\src\
+
     ```
 
 3. Compile and run the Java files:
     ```bash
-    javac project/*.java
-    java project.Parking
+    java .\parking.java
     ```
 
 4. Follow the prompts to input your car details and price.
