@@ -60,4 +60,4 @@ For any questions, feel free to reach out at [usimin160@gmail.com](mailto:usimin
 
 ---
 
-### **Enjoy your parking experience! 🚗🅿️✨**
+##Enjoy the classic game, now in your terminal! 🪨🪶✂️🎮 Let the best player win! 🏆
